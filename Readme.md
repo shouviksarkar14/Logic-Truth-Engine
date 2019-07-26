@@ -2,7 +2,7 @@
 
 Shouvik Sarkar(2017A7PS0194H), Prakhar Gupta(2017A7PS1441H), Rahul Pillai(2017A7PS0099H)
 
-The assumptions are same as given in the assignment.
+Assumption: Standard logic symbols and mathematical reasoning to be used
 
 Input Method:-
 
