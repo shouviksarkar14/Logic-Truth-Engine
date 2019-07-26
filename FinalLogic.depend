@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1540466127 source:c:\users\shouv\documents\finallogic\main.cpp
+	<bits/stdc++.h>
+	<sstream>
+	"q2newfuncs.cpp"
+
+1540463257 c:\users\shouv\documents\finallogic\q2newfuncs.cpp
+	<bits/stdc++.h>
+	<sstream>
+	"q1withoutmain.cpp"
+
+1540463418 c:\users\shouv\documents\finallogic\q1withoutmain.cpp
+	<bits/stdc++.h>
+	"precedence.cpp"
+
+1540480319 c:\users\shouv\documents\finallogic\precedence.cpp
+	<iostream>
+
+1540463400 c:\users\shouv\documents\finallogic\precedence.h
+	<iostream>
+
+1542012476 source:c:\users\shouv\documents\finallogic\part2.cpp
+	<bits/stdc++.h>
+	<sstream>
+	"Part2functions.cpp"
+
+1540481826 c:\users\shouv\documents\finallogic\part2functions.cpp
+	<bits/stdc++.h>
+	<sstream>
+	"Part1functions.cpp"
+
+1540480383 c:\users\shouv\documents\finallogic\part1functions.cpp
+	<bits/stdc++.h>
+	"precedence.cpp"
+
